@@ -1,0 +1,152 @@
+h1 {
+    margin-top: 160px;
+    margin-bottom: 40px;
+    font-family: 'Gilroy', sans-serif;
+    font-weight: bold;
+    font-size: 65px;
+}
+
+p {
+    font-family: 'roboto', sans-serif;
+    color: #797979;
+    font-weight: lighter;
+    line-height: 26px;
+    font-size: 16px;
+}
+
+h2 {
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-family: 'Gilroy', sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+h3 {
+    font-family: 'gilroy', sans-serif;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h4 {
+    font-family: 'roboto', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+img {
+
+
+}
+
+#block-einde {
+    margin-bottom: 80px;
+}
+ 
+.description {
+    font-family: 'roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 14px; 
+    color: #9B9B9B;
+    font-style: italic;
+}
+
+
+.container-color {
+    background-color: #F3F7F5; 
+}
+
+.card-body {
+    background-color: #A7D3C3;
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.card {
+    border: none;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.lead {
+    text-align: center;
+    font-size: 14px;
+}
+
+.explain {
+    text-align: left;
+    font-size: 14px;
+}
+
+.explain-header {
+    text-align: left;
+    font-size: 22px;
+    font-weight: bold
+}
+
+
+.jumbotron {
+    padding: 40px;
+    margin-top: 80px;
+}
+
+.jumbotron-fluid {
+    text-align: center;
+    background-color: #F3F7F5;
+}
+
+.btn-bright {
+    background-color: white;
+    margin-right: 15px;
+    border-radius: 1px;
+    margin-top: 40px;
+}
+
+.btn-dark {
+    background-color: black;
+    margin-right: 15px;
+    border-radius: 1px;
+    margin-top: 40px;
+}
+
+.btn {
+    padding: 20px;
+}
+
+.lead-theorieën {
+    margin-bottom: 80px;
+}
+
+.card-header {
+    background-color: #A7D3C3;
+}
+
+.lead-robert {
+    margin-bottom: 80px;
+}
+
+.wrapper-principes {
+    margin-top: 40px;
+}
+
+.card-body-wrapper {
+    background-color: white;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.btn-link {
+    font-family: 'roboto', sans-serif;
+    color: #797979;
+}
+
+#concepting-img {
+    margin-top: 60px;;
+}
