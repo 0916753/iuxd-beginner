@@ -35,6 +35,14 @@ h4 {
     font-size: 18px;
 }
 
+ul {
+  font-family: 'roboto', sans-serif;
+    color: #797979;
+    font-weight: lighter;
+    line-height: 26px;
+    font-size: 16px;
+}
+
 img {
 
 
@@ -127,7 +135,7 @@ img {
 }
 
 .lead-robert {
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 }
 
 .wrapper-principes {
