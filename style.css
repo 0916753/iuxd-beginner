@@ -101,22 +101,12 @@ h4 {
     text-align: left;
 }
 
-.btn-bright {
-    background-color: white;
-    margin-right: 15px;
-    border-radius: 1px;
-    margin-top: 40px;
-}
-
-.btn-dark {
-    background-color: black;
-    margin-right: 15px;
-    border-radius: 1px;
-    margin-top: 40px;
-}
-
 .btn {
+    margin: 15px;
     padding: 20px;
+    width: 350px;
+    background-color: black;
+    color: white;
 }
 
 .lead-theorieën {
@@ -156,4 +146,34 @@ h4 {
 .img-fluid {
     margin-top: 40px;
     margin-bottom: 40px;
+}
+
+.Header-text {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 93px;
+    text-align: center;
+}
+
+.lead {
+    font-size: 30px;
+    color: black;
+    line-height: 150%;
+    margin-bottom: 80px;
+}
+
+.masthead {
+    background-color: #F3F7F5;
+}
+
+.nav-link {
+    margin-left: 20px;
+    font-size: 14px;
+    font: 'roboto', sans-serif;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+    font-size: 14px;
+    font: 'roboto', sans-serif;
 }
