@@ -232,3 +232,11 @@ h5 {
 .navbar-light .navbar-brand:hover {
     color: #A7D3C3;
 }
+
+.navbar {
+    background-color: white;
+}
+
+.navbar-home {
+    background-color: #F3F7F5;
+}
