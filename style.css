@@ -3,7 +3,7 @@ h1 {
     margin-bottom: 40px;
     font-family: 'Gilroy', sans-serif;
     font-weight: bold;
-    font-size: 65px;
+    font-size: 55px;
 }
 
 p {
@@ -11,7 +11,7 @@ p {
     color: #797979;
     font-weight: lighter;
     line-height: 26px;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 h2 {
@@ -219,4 +219,16 @@ h5 {
 .book-item {
     margin-bottom: 20px;
     font-size: 12px;
+}
+
+.navbar-light .navbar-brand {
+    margin-left: 0px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #A7D3C3;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: #A7D3C3;
 }

@@ -3,7 +3,7 @@
                                 margin-bottom: 40px;
                                 font-family: 'Gilroy', sans-serif;
                                 font-weight: bold;
-                                font-size: 65px;
+                                font-size: 55px;
                             }
                             
                             p {
@@ -11,7 +11,7 @@
                                 color: #797979;
                                 font-weight: lighter;
                                 line-height: 26px;
-                                font-size: 16px;
+                                font-size: 18px;
                             }
                             
                             h2 {
@@ -157,6 +157,7 @@
                                 margin-left: 20px;
                                 font-size: 14px;
                                 font: 'roboto', sans-serif;
+                                color: white;
                             }
                             
                             .navbar-brand {
@@ -164,20 +165,21 @@
                                 font-size: 14px;
                                 font: 'roboto', sans-serif;
                                 margin-right: 0px;
-                                background-color: white;
                             }
                             
                             .navbar-light .navbar-nav .nav-link {
                                 color: white;
                             }
                             
-                            .navbar-light:hover .navbar-nav .nav-link {
+                            .navbar-light .navbar-nav .nav-link:hover {
                                 color: #A7D3C3;
                             }
                             
-                            .navbar-brand-dark {
-                                margin-left: 20px;
-                                font-size: 14px;
-                                font: 'roboto', sans-serif;
+                            .navbar-light .navbar-brand {
+                                margin-left: 0px;
                                 color: white;
+                            }
+                            
+                            .navbar-light .navbar-brand:hover {
+                                color: #A7D3C3;
                             }
