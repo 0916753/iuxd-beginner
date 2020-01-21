@@ -240,3 +240,12 @@ h5 {
 .navbar-home {
     background-color: #F3F7F5;
 }
+
+.card-text-example {
+    font-size: 16px;
+}
+
+.explain {
+    font-size: 18px;
+    line-height: 150%;
+}
