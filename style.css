@@ -3,7 +3,7 @@ h1 {
     margin-bottom: 40px;
     font-family: 'Gilroy', sans-serif;
     font-weight: bold;
-    font-size: 55px;
+    font-size: 48px;
 }
 
 p {
@@ -86,6 +86,7 @@ h5 {
 .card-lijst {
     margin-top: 180px;
     background-color: #A7D3C3;
+    border-radius: 5px;
 }
 
 .card-title {
@@ -131,9 +132,12 @@ h5 {
     margin: 15px;
     padding: 20px;
     width: 350px;
-    background-color: black;
+    background-color: #535353;
     color: white;
     text-align: center;
+    border-radius: 5px;
+
+
 }
 
 .btn-cta:hover {
@@ -163,11 +167,11 @@ h5 {
 
 .card {
     margin-bottom: 20px;
-}
+      }
 
 .btn-link {
     font-family: 'roboto', sans-serif;
-    color: #797979;
+    color: #585858;
 }
 
 .btn-link:hover {
@@ -188,8 +192,9 @@ h5 {
 .Header-text {
     margin-top: 120px;
     margin-bottom: 60px;
-    font-size: 93px;
+    font-size: 72px;
     text-align: center;
+    color: #494949;
 }
 
 .lead {
@@ -248,4 +253,8 @@ h5 {
 .explain {
     font-size: 18px;
     line-height: 150%;
+}
+
+.accordion{
+    border-radius: 5px;
 }
